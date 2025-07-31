@@ -166,12 +166,6 @@ export const CONFIG = {
 
 This project was created by Denis Guliaikin as part of the application process for Evil Martians' Frontend Engineer position. 
 
-### Key Contributions
-- **Accessibility Excellence**: Implemented comprehensive WCAG 2.1 AA compliance
-- **Performance Focus**: Zero external dependencies, optimized loading
-- **Code Quality**: Clean, documented, modular architecture
-- **UX Attention**: Smooth interactions and clear user feedback
-
 ## 📞 Contact
 
 - **Email**: d.gulyaikin@gmail.com
